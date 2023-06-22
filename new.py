@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 print('Starting up bot...')
 
-TOKEN: Final = '5727571923:AAGj4mYOkBi_YCc5zTtWPVVnSVAWRC12lsg'
+TOKEN: Final = 'BOT TOKEN HERER PLS'
 BOT_USERNAME: Final = '@nati_port1_bot'
 
 
